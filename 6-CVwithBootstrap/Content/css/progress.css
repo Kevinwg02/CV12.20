@@ -1,0 +1,35 @@
+/* #myProgress {
+  width: 70%;
+  margin: 0% 0% 0% 10%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 30%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+} */
+
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+  /* background-color: #ddd; */
+}
+
+.skills {
+  text-align: right;
+  height: 1px;
+  padding-top: 2px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #0c75ee;}
+.css {width: 80%; background-color: #21c2f3;}
+.js {width: 60%; background-color: #f4e136;}
+.php {width: 65%; background-color: #e04700;}
+.sql {width: 80%; background-color: #ff0808;}
